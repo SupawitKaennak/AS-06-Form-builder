@@ -1,6 +1,6 @@
 <img width="280" height="539" alt="image" src="https://github.com/user-attachments/assets/a3688b83-e52e-4a87-97fb-86833938950d" />
 <img width="280" height="539" alt="image" src="https://github.com/user-attachments/assets/1755fefd-3a84-4c3b-b29f-bf0405d27dd7" />
-<img width="280" height="539" alt="image" src="https://github.com/user-attachments/assets/b09e06a2-82f1-4e4b-ac58-0576a251f7cd" /><br>
+<img width="270" height="539" alt="image" src="https://github.com/user-attachments/assets/b09e06a2-82f1-4e4b-ac58-0576a251f7cd" /><br>
 
 
 # อธิบาย
