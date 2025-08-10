@@ -12,6 +12,20 @@
 - **Navigation**: ระบบนำทางระหว่างหน้าจอ
 - **Data Display**: แสดงผลข้อมูลที่กรอก
 
+#Inputs ที่ใข้
+  - FormBuilderCheckbox - Single checkbox field
+  - FormBuilderCheckboxGroup - List of checkboxes for multiple selection
+  - FormBuilderChoiceChip - Creates a chip that acts like a radio button.
+  - FormBuilderDateRangePicker - For selection of a range of dates
+  - FormBuilderDateTimePicker - For Date, Time and DateTime input
+  - FormBuilderDropdown - Used to select one value from a list as a Dropdown
+  - FormBuilderFilterChip - Creates a chip that acts like a checkbox
+  - FormBuilderRadioGroup - Used to select one value from a list of Radio Widgets
+  - FormBuilderRangeSlider - Used to select a range from a range of values
+  - FormBuilderSlider - For selection of a numerical value on a slider
+  - FormBuilderSwitch - On/Off switch field
+  - FormBuilderTextField - A Material Design text field input
+
 ## 📱 หน้าต่างๆ ในแอป
 
 ### 1. 🏠 หน้าหลัก (Main Page)
